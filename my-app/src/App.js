@@ -10,7 +10,7 @@ import './css/custom.css';
 import {
   BrowserRouter as Router,
   Route,
-  Switch
+  Switchnpcd
 } from "react-router-dom";
 
 
